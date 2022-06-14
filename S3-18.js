@@ -1,9 +1,9 @@
-const refrigeirante = "refrigeirante"
-const macarrao = "Macarrão"
-const ervilha = "Ervilha"
-const arroz = "Arroz"
-const feijao = "Feijão"
-const vinho = "Vinho"
+let refrigeirante = "refrigeirante"
+let macarrao = "Macarrão"
+let ervilha = "Ervilha"
+let arroz = "Arroz"
+let feijao = "Feijão"
+let vinho = "Vinho"
 
 let quantidadeRefrigeirante = 3
 let quantidadeMacarrao = 4
